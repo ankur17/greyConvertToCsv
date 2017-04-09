@@ -7,11 +7,14 @@ The output will be generated in the file name
 >gray.csv
 
 ## Commands
-Open the terminal and write the following commands:
+###### Step 1:
+create an empty folder **data** in the present directory.
+
+###### Step 2:
+Open the terminal/cmd in present directory and write the following commands:
 ```
 pip install -r requirements.txt
 ```
-if pip not installed kindly install it.
 
 ```
 python dimReduct.py
